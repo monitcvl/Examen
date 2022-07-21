@@ -1,4 +1,6 @@
 # Examen de GIT
-# Pagina web en html y css para principiantes
+## Participantes
 
-Plantilla para modificar según conocimientos adquiridos en html y css. Incluye librería bootstrap. 
+Añade tu nombre y apellidos con un encabezado de nivel e con las marcas de Markdown
+
+
