@@ -12,7 +12,7 @@ Añade justo en la línea debajo de tu nombre y apellidos, tus iniciales con un 
 
 ## Sergio Jovani Pérez
 
-###SJP
+### SJP
 
 ## Antonio Luque Montero
 
