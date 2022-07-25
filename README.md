@@ -6,7 +6,7 @@ Añade justo en la línea debajo de tu nombre y apellidos, tus iniciales con un 
 ## Carlos Bellido Pérez
 
 
-## De la Torre Martínez Sandra
+## Sandra de la Torre Martínez
 
 
 ## Sergio Jovani Pérez
